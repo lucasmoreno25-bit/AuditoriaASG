@@ -86,3 +86,10 @@ Como desarrollador/a, no basta con encontrar los fallos; debes proponer solucion
     Usaría servidores que sean 100 % renovables en el que se apaguen cuando no esté en uso.  
     También borrar datos antiguos que no sirvan para nada.  
       
+3 Refactorizacion Propuesta
+Hemos pasado todos los div a minuscula, hemos envuelto las url entre comillas
+Nos hemos dado cuenta que los div no son tan buenos por ello decidimos cambiar <div="header"> por header y asi con todos 
+A todas las imagenes le hemos añadido un alt dejando al atributo vacio
+Hemos quitado los href y lo hemos cambiado por buttoms y si son enlaces hemos usado <a>
+Hemos eliminado los comentarios del codigo para apuntarnos cosas ya que para eso podemos usar bloc de notas
+Hemos quitado los type="text/css" ya que el navegador en HTML5 ya asume lo que es
