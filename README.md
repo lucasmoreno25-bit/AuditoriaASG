@@ -20,11 +20,13 @@
 Analiza el peso y consumo de la web elegida.
 
 1. **Medición inicial**. Utiliza herramientas gratuitas como *Website Carbon Calculator* o *Lighthouse* (pestaña de rendimiento en Chrome/Edge) para obtener la huella de carbono estimada por visita.  
-   ![][image1]  
+   <img width="584" height="483" alt="image" src="https://github.com/user-attachments/assets/9bb20def-0448-493e-9998-9a80656bc207" />
+
    Está bastante bien pero es mejorable.  
 2. **Identificación de Bloatware**. Inspecciona la red (Network) en las herramientas de desarrollador del navegador. Identifica los 3 recursos más pesados que se descargan al abrir la web (imágenes sin comprimir, vídeos de fondo, librerías JavaScript pesadas, etc.).  
    Estas son los 3 recursos más pesados de la web   
-   ![][image2]  
+   <img width="485" height="64" alt="image" src="https://github.com/user-attachments/assets/022c72f7-c51c-42f7-aff7-fce858190e4d" />
+  
      
 3. **Análisis**. ¿Crees que la web sufre de "inflación de software"? Justifica tu respuesta.
 
@@ -36,9 +38,11 @@ La web debe ser utilizable por todos. Evalúa la accesibilidad (Sostenibilidad S
 
 1. **Test de Accesibilidad**. Pasa una herramienta como *WAVE Web Accessibility Evaluation Tool* o el propio *Lighthouse* (pestaña *Accessibility*).
 
-	![][image3]
+	<img width="575" height="414" alt="image" src="https://github.com/user-attachments/assets/d296ef7b-de9c-44e0-b348-edce720a995c" />
 
-![][image4]
+
+<img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/c82a3f79-9c1b-4e6d-be25-07d399aaed39" />
+
 
 El rendimiento es mejorable aunque comparado con accesibilidad, práctica y SEO la web no está tan mal 
 
